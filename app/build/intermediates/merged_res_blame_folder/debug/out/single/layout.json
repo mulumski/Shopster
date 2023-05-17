@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_product.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_scanner.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\item_layout.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_first.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\list_item.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "com.example.projectmulumbatwo.app-mergeDebugResources-38:/layout/activity_cart.xml",
+        "source": "com.example.projectmulumbatwo.app-main-41:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_checkout.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_generator.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_generator.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_scan_data.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_scan_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-mergeDebugResources-38:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_splash_screen.xml"
+    }
+]

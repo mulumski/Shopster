@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870993249324",
+    "project_id": "project-mulumba-two-3fa4c",
+    "storage_bucket": "project-mulumba-two-3fa4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870993249324:android:ccb2598c5a591ee67d3d89",
+        "android_client_info": {
+          "package_name": "com.example.projectmulumbatwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870993249324-sm2c7hdun9dv5n06sd1jp82mj95p49lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKVpnlLTQMQodx3TZe5FuPox71NTfh6gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870993249324-sm2c7hdun9dv5n06sd1jp82mj95p49lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

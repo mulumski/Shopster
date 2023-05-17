@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:backgroundTint="#DDDADA">
+
+    <ImageButton
+        android:id="@+id/mbtn_profile"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:adjustViewBounds="true"
+        android:background="#DDDADA"
+        android:backgroundTint="@null"
+        android:contentDescription="@string/my_profile_view"
+        android:scaleType="centerInside"
+        android:src="@drawable/profileimg"/>
+
+
+    <TextView
+        android:layout_marginStart="145dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvtitlemain"
+        android:text="Shopster"
+        android:textSize="30sp"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="30dp" />
+
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cdvw1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:elevation="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="100dp"
+        app:cardCornerRadius="10dp">
+
+        <ImageView
+            android:id="@+id/img1"
+            android:layout_width="match_parent"
+            android:layout_height="198dp"
+            android:src="@drawable/shop1"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageButton
+                android:id="@+id/mbtn_scan"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="340dp"
+                android:adjustViewBounds="true"
+                android:background="#DDDADA"
+                android:backgroundTint="@null"
+                android:contentDescription="@string/my_button_scan"
+                android:scaleType="centerInside"
+                android:src="@drawable/scanbtn" />
+
+            <TextView
+                android:id="@+id/tvscan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="0dp"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="Scan Item" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageButton
+                android:id="@+id/mbtn_checkout"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="340dp"
+                android:adjustViewBounds="true"
+                android:background="#DDDADA"
+                android:backgroundTint="@null"
+                android:contentDescription="@string/my_button_pay"
+                android:scaleType="centerInside"
+                android:src="@drawable/checkout" />
+
+            <TextView
+                android:id="@+id/tvcheckout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="0dp"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="Proceed to Checkout" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/mbtn_cart"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="340dp"
+                android:adjustViewBounds="true"
+                android:background="#DDDADA"
+                android:backgroundTint="@null"
+                android:contentDescription="@string/my_button_cart"
+                android:scaleType="centerInside"
+                android:src="@drawable/cartic" />
+
+            <TextView
+                android:id="@+id/tvcart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="19dp"
+                android:layout_marginTop="0dp"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="View Cart" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/mbtn_Scandata"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="340dp"
+                android:adjustViewBounds="true"
+                android:background="#DDDADA"
+                android:backgroundTint="@null"
+                android:contentDescription="@string/my_button_scandata"
+                android:scaleType="centerInside"
+                android:src="@drawable/scandata2" />
+
+            <TextView
+                android:id="@+id/tvscandata"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="0dp"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="Scan shop code" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <HorizontalScrollView
+        android:id="@+id/horiview1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="470dp"
+        android:contentDescription="@string/my_horiview_home">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardviewpic1"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="20dp"
+                android:elevation="8dp"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:id="@+id/imgviewpic1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:backgroundTint="@color/white"
+                    android:src="@drawable/shoppingtwo" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardviewpic2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="20dp"
+                android:elevation="8dp"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:id="@+id/imgviewpic2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#DFDBDB"
+                    android:backgroundTint="@color/white"
+                    android:src="@drawable/shoppingone" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardviewpic3"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="20dp"
+                android:elevation="8dp"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:id="@+id/imgviewpic3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#DFDBDB"
+                    android:backgroundTint="@color/white"
+                    android:src="@drawable/shoppingthree" />
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+
+    </HorizontalScrollView>
+
+
+</RelativeLayout>

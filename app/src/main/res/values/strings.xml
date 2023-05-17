@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project Mulumba Two</string>
+    <string name="my_button_pay">Lipa</string>
+    <string name="my_button_cart">View Cart</string>
+    <string name="my_button_scan">Scan Item</string>
+    <string name="my_horiview_home">Horiview</string>
+    <string name="my_profile_view">Profile</string>
+    <string name="mpesa_consumer_key">pM8g7GVzxQcnfTwUHIpJxmHGo9XLBqDa</string>
+    <string name="mpesa_consumer_secret">f2nDwG5qlVGXIo0u</string>
+    <string name="my_button_scandata">Scan data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

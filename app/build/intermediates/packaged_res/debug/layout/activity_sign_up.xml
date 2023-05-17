@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUpActivity">
+
+    <TextView
+        android:id="@+id/mtvttlone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="84dp"
+        android:fontFamily="sans-serif-black"
+        android:text="WElCOME TO SHOPSTER"
+        android:textColor="#3C3E0D"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/mEdtEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Enter Email adress:"
+        app:layout_constraintStart_toStartOf="@+id/mEdtName"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtName" />
+
+    <TextView
+        android:id="@+id/mTvalracc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="124dp"
+        android:text="Already have an account?"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtPasssword" />
+
+    <EditText
+        android:id="@+id/mEdtName"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="89dp"
+        android:layout_marginTop="67dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Enter your Name:"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mtvttlone" />
+
+    <EditText
+        android:id="@+id/mEdtPasssword"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="84dp"
+        android:ems="10"
+        android:hint="Enter Password:"
+        android:inputType="textPassword"
+        app:layout_constraintStart_toStartOf="@+id/mEdtEmail"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtEmail" />
+
+    <Button
+        android:id="@+id/mBtnsignin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="31dp"
+        android:text="Sign In"
+        app:layout_constraintBaseline_toBaselineOf="@+id/mTvalracc"
+        app:layout_constraintStart_toEndOf="@+id/mTvalracc" />
+
+    <EditText
+        android:id="@+id/mEdtPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginBottom="14dp"
+        android:ems="10"
+        android:hint="Enter phone:"
+        android:inputType="phone"
+        app:layout_constraintBottom_toTopOf="@+id/mEdtPasssword"
+        app:layout_constraintStart_toStartOf="@+id/mEdtPasssword" />
+
+    <Button
+        android:id="@+id/mBtnSignUp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="5dp"
+        android:text="Sign Up"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="@+id/mEdtPhone"
+        app:layout_constraintStart_toStartOf="@+id/mEdtPhone"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtPasssword" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

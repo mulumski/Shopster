@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_generator.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_generator.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_cartic.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\cartic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_first.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_scanbtn.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\scanbtn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_shoppingone.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\shoppingone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_splashscreen.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\splashscreen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_help.png.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_scan_data.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_scan_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_scanner.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_profile2.png.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\profile2.png"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_introimage.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\introimage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_listitem.png.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\listitem.png"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_img.png.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_product.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_item_image.png.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\item_image.png"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_profileimg.png.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\profileimg.png"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_scandata2.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\scandata2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_security.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\security.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_profile3.png.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\profile3.png"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_checkout.png.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\checkout.png"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_shop1.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\shop1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_item_layout.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_dustbin.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\dustbin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_profilepic.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\profilepic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_shoppingtwo.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\shoppingtwo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_profileicon.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\profileicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_shoppingthree.jpg.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\shoppingthree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-merged_res-39:\\drawable_fragment_profile.xml.flat",
+        "source": "C:\\Users\\macha\\.gradle\\daemon\\7.5\\com.example.projectmulumbatwo.app-main-41:\\drawable\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.projectmulumbatwo.app-merged_res-39:/layout_activity_cart.xml.flat",
+        "source": "com.example.projectmulumbatwo.app-main-41:/layout/activity_cart.xml"
+    }
+]
